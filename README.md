@@ -1,4 +1,4 @@
-https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1742734208~exp=1742737808~hmac=f70985ae492c7ca46024d19ccc1256abdc6f61d9d8d56d9c004494fa1c7d24f4&w=1380
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1742734208~exp=1742737808~hmac=f70985ae492c7ca46024d19ccc1256abdc6f61d9d8d56d9c004494fa1c7d24f4&w=1380">
 
 <h1 align="center">Hi 👋, I'm Hari Om Verma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>

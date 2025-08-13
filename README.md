@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari06om&label=Profile%20views&color=0e75b6&style=flat" alt="hari06om" /> </p>
 
-
-
-
-
-
-
 - 🌱 I’m currently learning **MEARN , Java**
 
 - 💬 Ask me about **Frontend , Cpp**
@@ -26,6 +20,7 @@
 <a href="https://instagram.com/hari.om._2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari.om._2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hariom06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hariom06" height="30" width="40" /></a>
 </p>
+
 
 <h2 align="center"> LeetCode Progress  </h2>
 <img src="https://leetcard.jacoblin.cool/Hariom06?theme=dark&font=Karma&ext=heatmap" />

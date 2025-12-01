@@ -1,9 +1,6 @@
-
-
-
-![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1742734208~exp=1742737808~hmac=f70985ae492c7ca46024]d19ccc1256abdc6f61d9d8d56d9c004494fa1c7d24f4&w=1380)
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,5,30&height=300&section=header&text=Hari%20Om%20Verma&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Hari Om Verma</h1>
